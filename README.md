@@ -15,7 +15,7 @@ Our audience will learn a lot about the current and past states of specific cryp
 - What is currently being tweeted about cryptocurrency?
 
 
-&nbsp;
+&nbsp; 
 
 
 ## Technical Description
