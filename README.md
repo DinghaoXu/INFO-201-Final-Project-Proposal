@@ -22,4 +22,4 @@ After retrieving data from the API, we would need to **reshape** our data so tha
 
 ### Major Libraries
  
-We believe that the best way to display such a plethora of data would be through visual charts and/or graphics. This is why we have chosen to use ggplot2 and plotly to create data visualizations to help our audience understand what is currently going on within the world of cryptocurrency. These visualizations will also help reveal different trends or patterns by using both current and historical data. 
+We believe that the best way to display such a plethora of data would be through visual charts and/or graphics. This is why we have chosen to use **ggplot2** and **plotly** to create data visualizations to help our audience understand what is currently going on within the world of cryptocurrency. These visualizations will also help reveal different trends or patterns by using both current and historical data. 
