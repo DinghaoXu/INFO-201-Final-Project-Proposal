@@ -20,6 +20,9 @@ Our audience will learn a lot about the current and past states of specific cryp
 
 ## Technical Description
 
+### Access to Data
+We will be retrieving our data through the **CoinAPI API** to recieve a _continuous_ and _updated stream_ of information and data. We then will pull the data to analyze using the RESTful interface. 
+
 ### Data Wrangling
 After retrieving data from the API, we would need to **reshape** our data so that it could be easily readable for our users. For example, after we get the exchange rates of different cryptocurrencies, we will _separate them into different dataframes_ and _calculate summary information_ about each type of cryptocurrency. We will also **visualize** the data so that our users can easily see the trends of different cryptocurrencies. For exchange rate of one specific cryptocurrency, we will _compare its current rate to its historic rate_ and _generate a line plot_.
 
