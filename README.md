@@ -2,6 +2,9 @@
 
 ## Project Description
 
+### Dataset Description
+The Data we will be working with is an API from **CoinAPI**, which contains information on the _exchange rates_ and _real time status_ of the **cryptocurrency** market. This data was collected from the culmination of a series of exchanges, including popular ones like **BINANCE**, **COINBASE**, and **BITSTAMP**, as well as smaller exchanges like **LUNO**, and **QUADRIGAX**. This data is continulously updated through this API, and allows us to get up to date data at all times, as it continuously pulls information. 
+
 ### Target audience
 With the growing popularity of **cryptocurrency**, more and more people want to know what it is and how to start investing in it. The main audiences of our project are those **intersted in investing in cryptocurrency**, or **cryptocurrency owners** who _constantly need to check the exchange rates_ and _compare the real time status of different markets_.
 
